@@ -1,0 +1,6 @@
+Query Monitor Parameters Icon
+
+This file serves as a placeholder for a plugin icon.
+In a production environment, you would replace this with an actual icon file (PNG, SVG, etc.).
+
+The icon should be 128x128 pixels and represent the functionality of the plugin.
